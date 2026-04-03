@@ -39,11 +39,7 @@ I'm a second-year CS student passionate about backend systems and real-time simu
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Paradoxxt&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paradoxxt&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
