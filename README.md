@@ -1,51 +1,64 @@
-<h1 align="center">Hi, I'm Subhojit Samanta 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>B.Tech Computer Science Sophomore · Java Backend Developer · AI Enthusiast</b><br/>
-  📍 Kolkata, India &nbsp;|&nbsp; 🔭 Building <a href="https://github.com/Paradoxxt/vani-ai-">Vani AI</a> — a localized multilingual voice assistant
-</p>
+# Hi, I'm Subhojit Samanta 👋
 
----
+**B.Tech Computer Science Sophomore · Java Backend & Desktop Systems Developer**  
+📍 Kolkata, India
 
-## 🚀 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subhojit.samanta.backend@gmail.com)
 
-I'm a second-year CS student passionate about backend systems and real-time simulations. Currently architecting **Vani AI**, a voice assistant designed to serve multilingual and regional-language users with low-latency, localized responses.
-
-- 🌱 Currently learning: Spring Boot, REST APIs, WebSockets
-- 💼 Open to: Internships in Backend / Java / AI
-- 📫 Reach me at: subhojit.samanta.backend@gmail.com
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+### 🚀 About Me
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+I am a second-year Computer Science student focused on building performant Java backend architectures, offline-first desktop systems, and real-time audio/voice tools. I enjoy taking real business requirements and turning them into clean, production-ready software.
 
----
-
-## 📌 Featured Project
-
-### 🗣️ [Vani AI](https://github.com/Paradoxxt/vani-ai-)
-> A localized multilingual voice assistant focused on regional language support and real-time audio processing.
-- Built with Java backend architecture
-- Designed for low-latency voice interaction
-- Supports multilingual NLP pipelines
+- 🔭 **Currently Building:** [Vani AI](https://github.com/Paradoxxt/vani-ai) & backend microservices
+- 💼 **Open To:** Backend Engineering & Java Developer Internships
+- 📫 **Contact:** [subhojit.samanta.backend@gmail.com](mailto:subhojit.samanta.backend@gmail.com)
 
 ---
 
-## 📊 GitHub Stats
+### 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paradoxxt&theme=tokyonight&hide_border=true" height="150"/>
-</p>
+**Languages & Frameworks:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-FF2D20?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Databases & Tools:**  
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/subhojitsamanta"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:subhojitsamantadevil@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+### 📌 Featured Projects
+
+#### 🏢 [Warehouse Billing & Inventory Management System](https://github.com/Paradoxxt/warehouse-billing-system)
+*Enterprise POS & Logistics Desktop Suite | Java 23, JavaFX, SQLite, Apache POI, ESC/POS, jpackage*
+- Engineered an offline-first Windows desktop POS system for wholesale commodity distributors handling checkout, dues, and transport chalans.
+- Implemented an ESC/POS thermal printing engine with dynamic UPI/BharatQR generation directly on receipt bitmaps.
+- Integrated SQLite with Write-Ahead Logging (WAL) for rapid counter concurrency, and Apache POI for bulk Excel synchronization.
+- Packaged as a standalone native installer (`.msi`) using `jlink` and `jpackage`.
+
+#### 🗣️ [Vani AI](https://github.com/Paradoxxt/vani-ai)
+*Localized Multilingual Voice Assistant | Java Backend Architecture*
+- Engineered for low-latency audio capture, localized language models, and regional dialect recognition.
+- Designed with modular backend pipelines for real-time speech-to-text and intent resolution.
+
+---
+
+<div align="center">
+
+### 📊 GitHub Activity
+
+<img src="https://github-readme-stats.vercel.app/api?username=Paradoxxt&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Subhojit's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paradoxxt&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+
+</div>
