@@ -58,8 +58,8 @@ I am a second-year Computer Science student focused on building performant Java 
 
 ### 📊 GitHub Metrics
 
-[![Public Repos](https://img.shields.io/github/repo-size/Paradoxxt/warehouse-billing-system?label=Warehouse%20POS%20Size&style=flat-square&color=blue)](https://github.com/Paradoxxt/warehouse-billing-system)
 [![Top Language](https://img.shields.io/github/languages/top/Paradoxxt/warehouse-billing-system?style=flat-square&color=orange)](https://github.com/Paradoxxt/warehouse-billing-system)
+[![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=flat-square&logo=windows)](https://github.com/Paradoxxt/warehouse-billing-system)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](https://opensource.org/licenses/MIT)
 
 </div>
