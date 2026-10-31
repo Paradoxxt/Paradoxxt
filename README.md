@@ -58,7 +58,7 @@ I am a second-year Computer Science student focused on building performant Java 
 
 ### 📊 GitHub Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=Paradoxxt&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Subhojit's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paradoxxt&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+[![Subhojit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paradoxxt&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Paradoxxt)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paradoxxt&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Paradoxxt)
 
 </div>
