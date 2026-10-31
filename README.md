@@ -45,7 +45,7 @@ I am a second-year Computer Science student focused on building performant Java 
 - Engineered an offline-first Windows desktop POS system for wholesale commodity distributors handling checkout, dues, and transport chalans.
 - Implemented an ESC/POS thermal printing engine with dynamic UPI/BharatQR generation directly on receipt bitmaps.
 - Integrated SQLite with Write-Ahead Logging (WAL) for rapid counter concurrency, and Apache POI for bulk Excel synchronization.
-- Packaged as a standalone native installer (`.msi`) using `jlink` and `jpackage`.
+- Packaged as a standalone native installer (.msi) using `jlink` and `jpackage`.
 
 #### 🗣️ [Vani AI](https://github.com/Paradoxxt/vani-ai)
 *Localized Multilingual Voice Assistant | Java Backend Architecture*
