@@ -13,7 +13,7 @@ I'm a second-year CS student passionate about backend systems and real-time simu
 
 - 🌱 Currently learning: Spring Boot, REST APIs, WebSockets
 - 💼 Open to: Internships in Backend / Java / AI
-- 📫 Reach me at: subhojitsamantadevil@gmail.com
+- 📫 Reach me at: subhojit.samanta.backend@gmail.com
 
 ---
 
