@@ -56,9 +56,10 @@ I am a second-year Computer Science student focused on building performant Java 
 
 <div align="center">
 
-### 📊 GitHub Activity
+### 📊 GitHub Metrics
 
-[![Subhojit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paradoxxt&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Paradoxxt)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Paradoxxt&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Paradoxxt)
+[![Public Repos](https://img.shields.io/github/repo-size/Paradoxxt/warehouse-billing-system?label=Warehouse%20POS%20Size&style=flat-square&color=blue)](https://github.com/Paradoxxt/warehouse-billing-system)
+[![Top Language](https://img.shields.io/github/languages/top/Paradoxxt/warehouse-billing-system?style=flat-square&color=orange)](https://github.com/Paradoxxt/warehouse-billing-system)
+[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](https://opensource.org/licenses/MIT)
 
 </div>
